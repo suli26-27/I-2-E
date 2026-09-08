@@ -1,1 +1,70 @@
 
+Sallai András
+
+Programozás alapok
+
+====================
+
+2026-09-02
+
+
+
+https://www.nive.hu/
+
+
+
+
+
+
+I év
+Jelen     →  progalap →      Ágazati 2027-01     →   Webprog, Asztali
+	      web, Python, hálózat
+
+II év
+	Frontend, Backend, Asztali és mobil
+	Vizsgaremek  →  Szakmai vizsga
+
+
+
+
+
+valaki@ktch.hu
+gmail.com
+
+
+Felhasználónév: {vezetéknévkeresztnevek@ktch.hu}
+Jelszó: 26Kulker27!
+
+
+
+
+
+
+
+https://github.com/oktat/tan
+https://szit.hu
+
+
+
+
+
+https://github.com/oktat/tan/blob/master/prog_alapok/02_Webszerkesztes.md
+
+Elem (tag pár)
+<valmai></valami>
+
+<html></html>   együtt html elem
+
+
+c:\users\diak\dev\I-2-E\progalap\web
+
+TC      Könyvtár létrehozása: F7
+Törlés: F8
+Átnevezés: Shift + F6
+
+hello/
+    `-index.html
+
+Shift+F4
+
+Legközelebb: 02 szemantikus elemek
