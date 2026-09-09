@@ -92,4 +92,28 @@ github.com/suli26-27/I-2-E
 github.com/oktat/tan
 szit.hu
 
+C:\users\diak\dev\i2e\web\
+C:\users\diak\dev\i2e\web\2026-09-09/blokk/index.html
 
+2026-09-09/blokk/index.html
+
+code .
+
+Live Server
+
+<br />
+
+Parancssor
+F1
+
+<b>
+
+__Gyakorlat__
+
+szit.hu
+Oktatás > Web > HTML > Feladatok
+
+
+
+
+Legközelebb TK Listák
