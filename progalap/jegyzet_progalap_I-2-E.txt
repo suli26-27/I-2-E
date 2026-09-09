@@ -68,3 +68,14 @@ hello/
 Shift+F4
 
 Legközelebb: 02 szemantikus elemek
+
+
+====================
+
+2026-09-09
+
+__HTML__
+
+_Szemantikus elemek_
+
+
