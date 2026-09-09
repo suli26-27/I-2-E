@@ -33,7 +33,7 @@ gmail.com
 
 
 Felhasználónév: {vezetéknévkeresztnevek@ktch.hu}
-Jelszó: 26Kulker27!
+Jelszó:
 
 
 
@@ -79,5 +79,17 @@ __HTML__
 _Szemantikus elemek_
 
 
+Felhasználónév: {vezeteknevkeresztnevek@ktch.hu}
+Jelszó: 
+
+nagyjanos@ktch.hu
+gmail.com
+
+Jegyzet:
+github.com/suli26-27/I-2-E
+
+
+github.com/oktat/tan
+szit.hu
 
 
