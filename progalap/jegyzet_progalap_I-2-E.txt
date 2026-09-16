@@ -122,7 +122,28 @@ Legközelebb TK Listák
 
 2026-09-16
 
+Szombaton Online
 gmail.com
+classroom.google.com
+
+sallai.andras@ktch.hu
+
+github.com/oktat/tan
+prog_alapok
+
+2026-09-16/
+   |-lista/
+       |-index.html
+
+code .
+
+ul>li*4
+
+
+Átnevezés:  F2
+
+_Táblázatok_
+
 
 
 
