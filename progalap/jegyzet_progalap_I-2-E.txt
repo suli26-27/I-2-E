@@ -285,7 +285,15 @@ CSS feladatok
 szit.hu
 oktatas » web » feladatok » css
 
+CSS feladatok
+Feladat 0001
 
+dialog/
+  |-index.html
+  `-style.css
+
+
+Feladat 0053
 
 
 
