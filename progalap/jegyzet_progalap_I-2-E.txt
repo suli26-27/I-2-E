@@ -189,6 +189,18 @@ urlap/
 
 szit.hu/int
 
+VSCode parnacssor:
+Ctrl + J
+
+
+
+git init
+
+Szünet
+
+
+
+
 
 
 
