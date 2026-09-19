@@ -161,11 +161,30 @@ Legközelebb:
 2026-09-19
 
 
+Kezdés: 9:00
+
+
+video
+audio
+
+
+_Űrlap_
+
+urlap/
 
 
 
+form
+  input
 
 
+Alt + Shift + Le
+
+
+urlap/
+  |-index.html
+  |-szema.html
+  `-szer.html
 
 
 
