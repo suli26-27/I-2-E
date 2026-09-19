@@ -246,10 +246,21 @@ VSCode: F2
 A következő szünet: 14:50  (kb. 10 perc)
 
 
+stil/
+  |-index.html
+  |-hat.html
+  |-hat.css
+  `-style.css
 
 
 
+RGB
+Red   Green    Blue
+ff     ff       ff
 
+
+Szünet: 
+kb. 15:00-ig 
 
 
 
