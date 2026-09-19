@@ -294,6 +294,8 @@ dialog/
 
 
 Feladat 0053
+Feladat 0151
+
 
 
 
