@@ -243,6 +243,7 @@ stil/
 TC, DB: Shift + F6
 VSCode: F2
 
+A következő szünet: 14:50  (kb. 10 perc)
 
 
 
