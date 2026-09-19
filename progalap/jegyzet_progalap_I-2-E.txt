@@ -187,6 +187,7 @@ urlap/
   `-szer.html
 
 
+szit.hu/int
 
 
 
