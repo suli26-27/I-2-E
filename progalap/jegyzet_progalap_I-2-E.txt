@@ -263,14 +263,23 @@ Szünet:
 kb. 15:00-ig 
 
 
+#ff0000
+
+
+margin: 10px;
+margin: 10px 10px 10px 10px;
+
+margin: 10px 10px;
 
 
 
-
-
-
-
-
+stil/
+  |-meret.html
+  |-meret.css
+  |-index.html
+  |-hat.html
+  |-hat.css
+  `-style.css
 
 
 
