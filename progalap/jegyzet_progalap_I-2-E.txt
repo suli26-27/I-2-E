@@ -189,7 +189,7 @@ urlap/
 
 szit.hu/int
 
-VSCode parnacssor:
+VSCode parancssor:
 Ctrl + J
 
 
@@ -197,6 +197,63 @@ Ctrl + J
 git init
 
 Szünet
+
+Terminál
+
+Power Shell
+cmd - Command Prompt
+
+git config --global user.name "Erős István"
+git config --global user.email eros@valahol.lan
+
+github.com  > Git szerver (Webes felület)
+
+Következő szünet: 12:30 - 12:50
+
+
+git status -u
+git add index.hu
+git status -u
+git add szema.html
+git add szer.html
+git status -u
+
+git commit -m "Kezdés"
+git status -u
+
+git log
+
+Ebédszünet
+Kb. 12:55
+
+
+git checkout dev    *
+git valmai dev
+git ujravalami dev 
+git switch dev      
+
+__04 Webformázás__
+
+
+stil/
+  |-index.html
+  `-style.css
+
+
+TC, DB: Shift + F6
+VSCode: F2
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
