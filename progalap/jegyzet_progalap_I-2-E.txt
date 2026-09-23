@@ -317,12 +317,16 @@ Ctrl + Ü
 _Python_
 
 
+Ctrl + J
 
+python3 --version
 
+szit.hu
+Oktatás > Programozás > Feladatok > Általános
 
 Következik:
 	A CSS-ben következik Ál-osztályok
-
+	Python: Az elemek közötti szeparátor
 
 
 
