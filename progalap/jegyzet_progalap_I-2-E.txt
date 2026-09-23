@@ -296,6 +296,39 @@ dialog/
 Feladat 0053
 Feladat 0151
 
+====================
+
+2026-09-23
+
+github.com/oktat/tan
+
+HTML, Webhibák (Git), CSS méretezés
+
+meret/
+  |-index.html
+  `-style.css
+
+
+20px     
+20%
+
+Ctrl + Ü
+
+_Python_
+
+
+
+
+
+Következik:
+	A CSS-ben következik Ál-osztályok
+
+
+
+
+
+
+
 
 
 
