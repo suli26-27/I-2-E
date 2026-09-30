@@ -328,6 +328,10 @@ Következik:
 	A CSS-ben következik Ál-osztályok
 	Python: Az elemek közötti szeparátor
 
+====================
+
+2026-09-30
+
 
 
 
