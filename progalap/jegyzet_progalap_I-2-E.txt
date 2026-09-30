@@ -332,8 +332,19 @@ Következik:
 
 2026-09-30
 
+Python: kivitel
+Web: Ál-osztályok
+
+github.com/oktat/tan
 
 
+alosztaly/
+  |-index.html
+  `-style.css
+
+VSCode   HTML fájlban   !    HTML váz
+html:5
+!
 
 
 
