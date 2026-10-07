@@ -354,6 +354,12 @@ Legközelebb:
 
 2026-10-07
 
+A jegyzet a Google Classroomban található, a becsomagolt fájlban.
+
+Legközelebb:
+	Python bevezetés
+
+
 
 
 
