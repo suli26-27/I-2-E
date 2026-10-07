@@ -346,6 +346,15 @@ VSCode   HTML fájlban   !    HTML váz
 html:5
 !
 
+Legközelebb: 
+	05 Reszponzív
+	
+
+====================
+
+2026-10-07
+
+
 
 
 
