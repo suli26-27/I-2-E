@@ -440,6 +440,55 @@ szit.hu
 Programozás feladatgyűjtemény (Általános)
 Oktatás > Programozás > Feladatok > Általános
 
+Feladat 0251
+
+__Bekérés__
+
+Változó átnevezése VSCode-ban:
+Kattintunk a változóra
+F2
+
+12:37 Szünet ...
+
+Feladat 0301
+
+
+__Szelekció__
+
+
+szelekcio.py
+
+
+nego.py
+bekérünk egy számot
+kiírjuk 0 vagy negatív vagy pozitív
+
+
+Bekérünk egy számot és kiírjuk betűvel
+3   három
+2   kettő
+0, 1, 2, 3
+
+betuvel.py
+
+
+_match case_
+
+switch(num) 
+match num:
+
+__Iteráció__
+
+ciklus, ismétlés
+
+for_in
+
+ciklus.py
+
+Feladat 0501
+
+
+
 
 
 
