@@ -432,6 +432,13 @@ AltGr + 3
 
 Szünet ...
 
+Szélesség, valós számok pontossága
+
+
+szit.hu
+
+Programozás feladatgyűjtemény (Általános)
+Oktatás > Programozás > Feladatok > Általános
 
 
 
