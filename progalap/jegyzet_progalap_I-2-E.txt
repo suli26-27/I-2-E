@@ -485,19 +485,65 @@ for_in
 
 ciklus.py
 
-Feladat 0501
+Feladat 0506
 
 
+Számok bekérése 0 végjelig.
+35
+26
+42
+0
+vegjel.py
 
 
+Kérjük be számokat 0 végjelig.
+A bekért számokat adjuk össze.
+osszeg.py
+
+Kérjük be számokat 0 végjelig.
+De most szorozzuk össze a számokat:
+szorzat.py
+14:40-ig megoldható
 
 
+for
+	Ha tudjuk, hányszor fordul a ciklus
+while
+	Ha nem tudjuk hányszor fordul a ciklus
+	
+__Karakterláncok kezelése__
+
+'alma'
+"alma"
+
+karakterlánc
+karaktersorozat
+string
+sztring
+str
+
+kar.py
+
+15:13-tól Szünet...   
+
+Tömb:
+számok tömbje:
+  [3, 5, 8, 12, 27, 4]
+  ['a', 'c' ]
+  ["a", "c" ]
+  []  üres tömb
+
+   Erős István   
 
 
+Tömb             <>    List
+Fix méretű             Dinamikus méretű
 
+Python: List
 
-
-
+Legközelebb:
+ 	Python Gyakorlás
+	Tuple
 
 
 
