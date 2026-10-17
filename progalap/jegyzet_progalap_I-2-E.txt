@@ -360,6 +360,120 @@ Legközelebb:
 	Python bevezetés
 
 
+====================
+
+2026-10-17
+
+Kezdés 9:00
+
+Összevont I-1-E és I-2-E
+
+
+Python bevezetés
+
+github.com/oktat/tan
+
+__08 Python fejezet__
+
+print("Helló Világ!")
+
+Python 3
+macOS és Linux: python3 --version
+Windows: python --version
+
+
+Total Commander - TC
+Double Commander - DC
+
+code .
+
+Terminál ablak kérése:
+Ctrl + J
+
+
+_Escape szekvenciák_
+
+Speciális karakterek
+
+ringló
+
+spec.py
+
+
+\  AltGr + Q
+
+
+__Típusok__
+
+
+valami = True
+valami = False
+
+__Típusok__
+
+tip.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
