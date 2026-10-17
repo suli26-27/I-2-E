@@ -413,7 +413,24 @@ __Típusok__
 
 tip.py
 
+Memória
+  utasítások     mas=30
+  változók       mas    30
 
+
+__Formázás__
+
+
+forma.py
+
+Pipe karakter |
+AltGr + W
+
+caret   ^
+AltGr + 3
+
+
+Szünet ...
 
 
 
