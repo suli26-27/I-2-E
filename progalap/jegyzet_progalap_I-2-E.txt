@@ -542,7 +542,7 @@ Fix méretű             Dinamikus méretű
 Python: List
 
 Legközelebb:
-    Dolgozat időzítve: szombat 18:30
+    Dolgozat időzítve: szombat 18:30 - Téma CSS feladat
  	Python Gyakorlás
 	Tuple
     
