@@ -542,9 +542,10 @@ Fix méretű             Dinamikus méretű
 Python: List
 
 Legközelebb:
+    Dolgozat időzítve: szombat 18:30
  	Python Gyakorlás
 	Tuple
-
+    
 
 
 
