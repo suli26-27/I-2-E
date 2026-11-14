@@ -671,6 +671,52 @@ Feladat 0832
 Ebédszünet 
 
 
+Programozási tételek
+Gyakran használt algoritmusok
+
+szit.hu
+Oktatás > Programozás > Programozási tételek > Mondatszerű leírás
+
+Megszámolás
+
+     0  1  2
+t = [3, 4, 5]
+n = 3
+
+
+
+def readContent():
+    filename = 'termes.txt'
+    fp = open(filename, 'r', encoding='utf-8')
+    lines = fp.readlines()
+    lineList = []
+    for line in lines[1:]:
+        line = line.rstrip()
+        lineList.append(line)
+    fp.close()
+    return lineList
+
+def countWheat(lineList):
+    count = 0
+    for line in lineList:
+        id, nev, dulo, termes, vege, ures = line.split(':')
+        if nev == 'búza':
+            count += 1
+    print('Daraba:', count)
+
+
+def sumWheat(lineList):
+    sum = 0
+    for line in lineList:
+        id, nev, dulo, termes, vege, ures = line.split(':')  
+        if nev == 'búza':
+            sum += int(termes)
+    print('Búza összesen (q):', sum)
+
+lineList = readContent()
+countWheat(lineList)
+sumWheat(lineList)
+
 
 
 
