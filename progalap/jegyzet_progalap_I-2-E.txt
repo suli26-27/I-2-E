@@ -654,12 +654,21 @@ f, file, fp
 
 
 fajl/
+  |-fuz.py
   |-main.py
   |-olvas.py
   `-adat.txt
 
 
+__Fájlkezelés gyakorlat__
 
+
+szit.hu
+Oktatás > Programozás > Feladatok > Általános
+
+Feladat 0832
+
+Ebédszünet 
 
 
 
