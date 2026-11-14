@@ -653,9 +653,11 @@ fp.close()
 f, file, fp
 
 
- fajl/
-   |-main.py
-   `-adat.txt
+fajl/
+  |-main.py
+  |-olvas.py
+  `-adat.txt
+
 
 
 
