@@ -718,6 +718,98 @@ countWheat(lineList)
 sumWheat(lineList)
 
 
+__Modulok__
+
+import math
+
+
+VSCode másolat készítés:
+
+Ctrl + bal egér  > húzás
+
+
+__Objektum Orientált Programozás__
+
+OOP
+
+
+class Haromszog:
+    # adattagok
+	alap = 30 
+	magassag = 35
+
+	# metódusok
+	def szamitKerulet(self, a, b, c):
+    	return a + b + c
+
+	def szamitTerulet(self, alap, magassag):
+    	return alap * magassag / 2
+
+
+
+harom/
+  |-haromszog.py
+
+
+Szünet ...
+
+
+Osztály > terv
+objektum > konkrét
+
+class Haromszog:
+	alap = 0
+	magassag = 0
+
+class Haromszog:
+	alap = 0
+	magassag = 0
+	def __init__(self):
+		self.alap = 0
+		self.magassag = 0
+
+
+Primitív típusok
+
+a = 35
+b = 35.5
+c = 'alma'
+d = True
+
+e = [35, 40, 29]
+e[0]
+
+calss Valmai:
+	nev = ''
+    fizetes = 0
+
+
+id, nev = line.split(':')
+
+termeny/
+  |-termeny.py
+  |-main.py
+
+
+A termeny projektben megvalósítottuk osztályok
+használatával a terményes feladatot.
+Záró feladat:
+A feladat02 metódust valósítsák meg önnálóan.
+
+Legközelebb:
+	Alkalmazás osztályban fejezet jön.
+	Nem néztük meg, de ezt csináltuk a gyakorlatban.
+	Ezzel végezzünk is, és jöhet webes és programozás
+	gyakorlat.
+	A 006 feladatból nem néztük meg 3 feladatrészt.
+
+
+
+
+
+
+
+
 
 
 
