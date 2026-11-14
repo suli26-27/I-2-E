@@ -545,13 +545,19 @@ Legközelebb:
     Dolgozat időzítve: szombat 18:30 - Téma CSS feladat
  	Python Gyakorlás
 	Tuple
-    
+
+
+
 =====================
 
 2026-11-14
 
+
+dolgozat 2
+
+
 Eddig volt
-	HTML
+	HTML - jelölő <h1>valami</h1>
 	CSS
 	Rugalmas weboldalak
 	Bootstrap	
@@ -579,6 +585,7 @@ Eddig volt
 			+, -, *, /, //, %, **
 			not, and, or
 			>, <, >=, <=, ==, !=
+            =      a = 3
 		Konvertálás
 			float()
 			int()
@@ -607,16 +614,48 @@ Eddig volt
 
 		Lista
 
+__Tupe__
+
+szit.hu
+github.com/oktat/tan
 
 
+(a + 2) * 5
+
+tuple1 = (5,)
 
 
+__Gyakorlás__
+
+Ágazati minta: Feladat 006
+
+__Függvények__
+
+github.com/oktat/tan
+
+fuggi/
+  |-main.py
+
+Szünet ...
+
+Folytatás
+
+__Fájlkezelés__
+
+fp = open('adat2.txt', 'w', encoding='utf-8')
+ 
+fp.write("Első")
+fp.write("Második")
+ 
+fp.close()
 
 
+f, file, fp
 
 
-
-
+ fajl/
+   |-main.py
+   `-adat.txt
 
 
 
