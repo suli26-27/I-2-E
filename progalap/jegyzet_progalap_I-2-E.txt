@@ -546,25 +546,66 @@ Legközelebb:
  	Python Gyakorlás
 	Tuple
     
+=====================
 
+2026-11-14
 
+Eddig volt
+	HTML
+	CSS
+	Rugalmas weboldalak
+	Bootstrap	
+	Python
+		kiírás
+		Escape szekvenciák - \n \t
+		Típusok és változók str, int, float, bool, NoneType
+		Formázott kimenet
+		Matematikai eszközök 
+			pow(2, 8)
+			2**8
+			import math
+			math.pow()
+			
+			math.sin()
+			math.cos()
+			math.tan()
+			math.ceil()
+			math.floor()
+			math.sqrt()
+		Véletlen szám
+			import random
+			random.randint(1,6) # 1 és 6 is benne van
+		Opertárok
+			+, -, *, /, //, %, **
+			not, and, or
+			>, <, >=, <=, ==, !=
+		Konvertálás
+			float()
+			int()
+			str()
+		Bevitel - valami = input('Valamit: ')
+		if, elif, else
+		match case - Python 3.10-től
+		for változó in sorozat:
+			utasítás
+		#Ötször írjuk ki, hogy alma
+		for i in range(5):
+			print('alma')
+		for i in range(0, 5):
+			print(i)
+		0, 1, 2, 3, 4
 
+		while feltétel:
+			utasítás
 
+		Bekérés nulla végjelig
+		szam = -1
+		while szam != 0:
+			szam = int(input("Szám: "))
 
+		Karakterek kezelése
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+		Lista
 
 
 
