@@ -793,14 +793,18 @@ termeny/
 
 A termeny projektben megvalósítottuk osztályok
 használatával a terményes feladatot.
+
+
+
 Záró feladat:
 A feladat02 metódust valósítsák meg önnálóan.
 
 Legközelebb:
 	Alkalmazás osztályban fejezet jön.
-	Nem néztük meg, de ezt csináltuk a gyakorlatban.
-	Ezzel végezzünk is, és jöhet webes és programozás
-	gyakorlat.
+		Nem néztük meg, de ezt csináltuk a gyakorlatban.
+	Algoritmusok.
+	Fájlkezelős feladatok.
+	Ezzel végezzünk is, és jöhet webes és programozás gyakorlat.	
 	A 006 feladatból nem néztük meg 3 feladatrészt.
 
 
